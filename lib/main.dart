@@ -1,4 +1,5 @@
 import 'package:device_preview/device_preview.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:taska/views/forgot_password_view/forgot_passwrod.dart';
 import 'package:taska/views/home/home.dart';
@@ -7,11 +8,11 @@ import 'package:taska/views/reset_password_view/reset_password.dart';
 import 'package:taska/views/sucessfull_view/sucessfull.dart';
 
 void main() => runApp(
-  const MyApp(),
-      // DevicePreview(
-      //   enabled: !kReleaseMode,
-      //   builder: (context) => const MyApp(), // Wrap your app
-      // ),
+  // const MyApp(),
+      DevicePreview(
+        enabled: !kReleaseMode,
+        builder: (context) => const MyApp(), // Wrap your app
+      ),
     );
 
 class MyApp extends StatelessWidget {

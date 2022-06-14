@@ -18,7 +18,7 @@ class TodaysTask extends StatelessWidget {
     return CheckboxListTile(
       autofocus: true,
       value: _checked != 1.0,
-      title: MediumSizedText(text: 'Go gishing \n$time'),
+      title: MediumSizedText(text: 'Go fishing \n$time'),
       secondary: const Icon(
         Icons.cloud_circle,
       ),

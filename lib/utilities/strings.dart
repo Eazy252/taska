@@ -30,4 +30,5 @@ class ResetPasswordScreen {
 class HomeScreenString {
   static const String today = 'Today';
   static const String month = 'Month';
+  static const String goFishing = 'Go fishing';
 }

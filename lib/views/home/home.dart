@@ -56,7 +56,10 @@ class HomeScreen extends StatelessWidget {
                           itemBuilder: (BuildContext context, int index) {
                             return TodaysTask(checked: _checked, time: time);
                           })),
-                  const Expanded(child: FlutterLogo())
+                  const Expanded(
+                    
+                    
+                    child: FlutterLogo())
                 ],
               ),
               const Center(
