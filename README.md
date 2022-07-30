@@ -1,16 +1,11 @@
 # taska
 
-A new Flutter project.
+This project is still underdevelopment, Taska  is projected to be an app
 
-## Getting Started
+for setting goails both shot term and long term achiveable goals.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/26329848/181862925-65fb8430-7e85-4c00-98c2-a3e66318a9d8.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
